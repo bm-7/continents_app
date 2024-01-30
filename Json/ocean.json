@@ -1,0 +1,90 @@
+{
+      "Oceans":[
+      {
+        "Ocean": "Pacific Ocean",
+        "image":"https://tse4.mm.bing.net/th/id/OIP.OIvGKl-M4lQD24MeZ24W1QHaFz?w=260&h=204&c=7&r=0&o=5&pid=1.7",
+        "Countries": [
+          "Australia",
+          "China",
+          "Chile",
+          "Indonesia",
+          "Japan",
+          "Mexico",
+          "New Zealand",
+          "Philippines",
+          "Russia",
+          "United States"
+        ],
+        "Deepest Point": "11,034 meters",
+        "Salinity": "3.5%",
+        "Surface Area": "168.723 million km²"
+         },
+      {
+        "Ocean": "Atlantic Ocean",
+        "image":"https://tse2.mm.bing.net/th/id/OIP.P_clVawKFfji0XL8LzjfFwAAAA?w=219&h=196&c=7&r=0&o=5&pid=1.7",
+        "Countries": [
+          "Argentina",
+          "Brazil",
+          "Canada",
+          "France",
+          "Morocco",
+          "Nigeria",
+          "Spain",
+          "United Kingdom",
+          "United States"
+        ],
+        "Deepest Point": "8,376 meters",
+        "Salinity": "3.5%",
+        "Surface Area": "85.1 million km²",
+        "url":"https://en.wikipedia.org/wiki/Atlantic_Ocean"
+        },
+      {
+        "Ocean": "Indian Ocean",
+        "image":"https://tse2.mm.bing.net/th/id/OIP.l4Bjofj_d2YHHWXTfdfk5QHaFw?w=233&h=182&c=7&r=0&o=5&pid=1.7",
+        "Countries": [
+          "Australia",
+          "India",
+          "Indonesia",
+          "Iran",
+          "Madagascar",
+          "South Africa",
+          "Thailand"
+        ],
+        "Deepest Point": "8,569 meters",
+        "Salinity": "3.5%",
+        "Surface Area": "70.56 million km²",
+        "url":"https://en.wikipedia.org/wiki/Indian_Ocean"
+         },
+      {
+        "Ocean": "Southern Ocean",
+        "image":"https://tse3.mm.bing.net/th/id/OIP.GT0tQdt_GgLPcjAjo8vW6QHaHa?w=181&h=181&c=7&r=0&o=5&pid=1.7",
+        "Countries": [
+          "Argentina",
+          "Australia",
+          "Chile",
+          "New Zealand"
+        ],
+        "Deepest Point": "10,994 meters",
+        "Salinity": "3.5%",
+        "Surface Area": "20.3 million km²",
+        "url":"https://en.wikipedia.org/wiki/Southern_Ocean"
+          },
+      {
+        "Ocean": "Arctic Ocean",
+        "image":"https://tse3.mm.bing.net/th/id/OIP.e1jQOer5l-u2UB6J_Nxp4AHaF0?w=226&h=180&c=7&r=0&o=5&pid=1.7",
+        "Countries": [
+          "Canada",
+          "Denmark (Greenland)",
+          "Iceland",
+          "Norway",
+          "Russia",
+          "United States"
+        ],
+        "Deepest Point": "4,665 meters",
+        "Salinity": "3.1%",
+        "Surface Area": "14.05 million km²",
+        "url":"https://en.wikipedia.org/wiki/Arctic_Ocean"
+           }]
+      }
+    
+  
