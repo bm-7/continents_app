@@ -1,4 +1,4 @@
-import 'package:continents_app/screens/home.dart';
+import 'package:continents_app/screens/navigation/Bottomnav.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 
@@ -61,7 +61,8 @@ class _OtpScreenState extends State<OtpScreen> {
                   await FirebaseAuth.instance.signInWithCredential(phCred);
                   Navigator.pushReplacement(
                     context,
-                    MaterialPageRoute(builder: (context) => const MyHomePage()),
+                    MaterialPageRoute(
+                        builder: (context) => const BottomNavigation()),
                   );
                 } catch (e) {
                   print(e);

@@ -1,5 +1,6 @@
 import 'package:continents_app/firebase_options.dart';
-import 'package:continents_app/screens/LoginScreens/loginPage.dart';
+import 'package:continents_app/screens/navigation/Bottomnav.dart';
+import 'package:continents_app/screens/navigation/profile.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 
@@ -11,8 +12,6 @@ void main() async {
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
-
-  // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -20,7 +19,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         useMaterial3: true,
       ),
-      home: Login(),
+      home: const BottomNavigation(),
     );
   }
 }

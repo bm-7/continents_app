@@ -6,8 +6,11 @@ class Asian extends StatefulWidget {
   final List<dynamic> countries;
   final continentData;
 
-  const Asian({Key? key, required this.countries, required this.continentData})
-      : super(key: key);
+  const Asian({
+    Key? key,
+    required this.countries,
+    this.continentData,
+  }) : super(key: key);
 
   @override
   State<Asian> createState() => _AsianState();
